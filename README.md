@@ -405,18 +405,14 @@ Nun haben Sie die notwendigen Vorkenntnisse, um loszulegen. Das Ziel ist es, das
     <br>_(An M300-Repo angelehnt - mit ergänzenden Unterverzeichnissen)_
         * 10-Toolumgebung
         * 20-Infrastruktur 
-        * 25-Sicherheit 1
         * 30-Container
         * 35-Sicherheit 2
         * 40-Container-Orchestrierung
         * 50-Add-ons _(Eigene Ergänzungen erwünscht)_
         * 60-Reflexion _(Lernprozess festgehalten, Form frei wählbar)_
-          
-    * `Einführende, kurz gehaltene Erklärungen zu den Arbeiten (LB1 und B2) `<br>_(Details im entsprechenden Unterordner, siehe unten)_
 
-* **/LB1** Ordner
-    * `README.md` _(1. Einleitung, 2. Inhaltsverzeichnis 3. Service-Aufbau, z.B. Setting Struktur, deklarativer Ablauf 4. Umsetzung, 5. Testing 6. Quellen)_
-    * `/images` Ordner _(Bilder, die zur LB1-Doku verlinkt werden)_
+
+
 
 * **/LB2** Ordner
     * `README.md` _(1. Einleitung, 2. Inhaltsverzeichnis 3. Service-Aufbau, z.B. Setting Struktur, deklarativer Ablauf 4. Umsetzung, 5. Testing 6. Quellen)_
