@@ -406,7 +406,7 @@ Nun haben Sie die notwendigen Vorkenntnisse, um loszulegen. Das Ziel ist es, das
         * 10-Toolumgebung
         * 20-Infrastruktur 
         * 30-Container
-        * 35-Sicherheit 2
+        * 35-Sicherheit
         * 40-Container-Orchestrierung
         * 50-Add-ons _(Eigene Ergänzungen erwünscht)_
         * 60-Reflexion _(Lernprozess festgehalten, Form frei wählbar)_
