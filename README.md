@@ -69,7 +69,7 @@ In diesem Kapitel werden wir zuerst GIT auf dem lokalen Rechner konfigurieren un
 
 ### Git Konfigurations Dateien
 
-Git hat folgende Konfigurationsdateien. Jede Ebene überschreibt die obige
+Git hat folgende Konfigurationsdateien welche abhängig vom verwendeten Betriebssystem in folgenden Verzeichnissen liegen. Jede Ebene überschreibt die obige.
 
 * **System** ( --system )
     * `/etc/gitconfig` oder `<git-install-root>\mingw64\etc\gitconfig`
