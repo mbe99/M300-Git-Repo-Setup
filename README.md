@@ -396,40 +396,28 @@ Nun haben Sie die notwendigen Vorkenntnisse, um loszulegen. Das Ziel ist es, das
 
 ### Repository-Name: M300-Services 
 
-### Hauptverzeichnis:
+#### Inhalt 
 
 * **README.md**
-    * `Einleitung allgemein`
-    <br>_(Summary mit sinnvollen Erklärungen und Links zu Unterverzeichnissen_)
-    * `Inhaltsverzeichnis`:
-    <br>_(An M300-Repo angelehnt - mit ergänzenden Unterverzeichnissen)_
-        * 10-Toolumgebung
-        * 20-Infrastruktur 
-        * 30-Container
-        * 35-Sicherheit
-        * 40-Container-Orchestrierung
-        * 50-Add-ons _(Eigene Ergänzungen erwünscht)_
-        * 60-Reflexion _(Lernprozess festgehalten, Form frei wählbar)_
+  > Kurzer Beschrieb um was es bei diesem Repository geht. Inhalztsverzeichnis usw...
 
-
-
+* git-cheatsheet.md
 
 * **/LB2** Ordner
-    * `README.md` _(1. Einleitung, 2. Inhaltsverzeichnis 3. Service-Aufbau, z.B. Setting Struktur, deklarativer Ablauf 4. Umsetzung, 5. Testing 6. Quellen)_
-    * `/images` Ordner _(Bilder, die zur LB2-Doku verlinkt werden)_
-
+    > **Inhalt:** README.md (1. Einleitung, 2. Inhaltsverzeichnis 3. Service-Aufbau, z.B. Setting Struktur, deklarativer Ablauf 4. Umsetzung, 5. Testing 6. Quellen)_
+    
 * **/images** Ordner
-    * `Nur Bilder oder Screenshots für Gesamtprojekt`
-    <br> _(Alles, ausser LB1 und LB2-Pics/Screenshots)_
+    > **Inhalt:** sämtliche Images die für die Dokumentation verwendet werden, auch diejenigen der LB2
+    
 
-
-<br>
 
 ### **WICHTIG:** Bei Verwendung von nicht selbstgeschriebenem Code **muss die Quelle zwingend angegeben werden**
 
-<br>
+
+
 
 # Viel Spass und viel Erfolg
+
 - - -
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/ch/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/ch/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz</a>
 
