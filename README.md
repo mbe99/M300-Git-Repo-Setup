@@ -168,7 +168,7 @@ Mit den folgenden Kommandos wird ein erstes File (in unserem Fall das README.md)
 ...jetzt muss das lokale Repository mit dem Remote-Repository gesynched werden, damit ich das kollaborative Arbeiten daran ermögliche. Im nächsten Schritt wird das lokale Repository mit dem Github-Repository einmalig "verlinkt". Danach kann das Repository jeweils **ge"pushed"**, **ge"pulled"**, **ge"klont"**, **ge"forked"** oder **ge"branched"** werden. Dies geschieht mit folgenden Kommandos:
 
 > `$ git remote add origin https://github.com/<Benutzername>/M300-Services.git   ` _Verlinken der Repos_ <br>
-> `$ git push -u origin master   ` _Github-Passwort eingeben und hochladen_
+> `$ git push -u origin main   ` _Github-Passwort eingeben und hochladen_
 
 
 Hier nun sämtliche Kommandos, wie sie in der richtigen Reihenfolge eingegeben werden (ohne Kommentare)
