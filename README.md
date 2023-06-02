@@ -4,7 +4,7 @@
 [21]: https://git-scm.com/book/en/v2
 
 
-# M400 Einführung GIT und Setup des M300 Repositorys
+# M300 Einführung GIT und Setup des M300 Repositorys
 
 Ziel dieses Projektes (Tutorials) ist es, dass die Lernenden in das Thema **GIT** einsteigen können und beim Durcharbeiten gleichzeitig ein Repository mit einer Grundstruktur für das Modul 300 aufsetzen<br>
 
