@@ -159,9 +159,10 @@ Das lokale Repo ist ab sofort im entsprechenden Verzeichnis aktiviert (z.B. auf 
 #### Erster Commit im lokalen Repository (lokal auf der Gitbash)
 Mit den folgenden Kommandos wird ein erstes File (in unserem Fall das README.md) im getrackten Verzeichnis erstellt, ge"stage"d und commited. Mit dem "Commit" wird der aktuelle Stand in mein lokales Repository eingepflegt (Snapshot im Metadatenverzeichnis). 
 
-> `$ echo "# M300 Dokumentation" >> README.md  ` _File "README.md" mit Titel erstellen_<br>
+> `$ echo "# M300 Dokumentation" >> README.md  ` _File "README.md" mit Titel erstellen_ <br>
 > `$ git add .   ` _Added alle Files im aktuellen Verzeichnis zur "Staging area"_ <br>
 > `$ git commit -m "First Commit"` _Files werden ab jetzt lokal getracked_ <br>
+> `git branch -M main`  _Main Branch verwenden_ <br>
 > `$ git log` _Log Eintrag des eben ausgeführten Commits zeigen_ 
 
 #### Synchronisation des lokalen Repos mit dem Github-Repository (Origin)
@@ -180,7 +181,7 @@ $ git init
 $ git add README.md
 $ git commit -m "first commit"
 $ git branch -M main
-$ git remote add origin https://github.com/<Benutzername>/M300-Services.git
+$ git remote add origin git@github.com:<Benutzername>/M300-Services.git
 $ git push -u origin main
 ``` 
 
